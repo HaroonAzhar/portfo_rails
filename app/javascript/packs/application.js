@@ -7,18 +7,12 @@ require("@rails/ujs").start()
 require("turbolinks").start()
 require("@rails/activestorage").start()
 require("channels")
-require("../js/aos")
-require("../js/jquery-migrate-3.0.1.min")
-require("../js/jquery.easing.1.3")
-require("../js/popper.min")
-require("../js/jquery.animateNumber.min")
-require("../js/scrollax.min")
-require("../js/bootstrap.min")
-require("../js/jquery.waypoints.min")
-require("../js/jquery.stellar.min")
-require("../js/owl.carousel.min.js")
-require("../js/jquery.magnific-popup.min")
-require("../js/main")
+require("jquery")
+
+
+
+
+
 
 
 
